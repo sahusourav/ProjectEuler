@@ -18,7 +18,7 @@ After all, brain workout is also needed.
 class Test{
   public static void main(String [] args){
     
-    System.out.println("Happy Coding </>");
+    System.out.println("Happy Coding! </>");
   }
 }
 ```
